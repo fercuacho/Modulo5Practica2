@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  GOW
+
+  Created by José Fernando Cristóbal Huerta on 12/08/23.
+  
+*/
+
+"menu.option.videogames" = "Video gioco";
+"menu.option.weapons" = "Armi";
+"menu.option.characters" = "Caratteri";
+"menu.option.merchandise" = "Merce";
+
+"wepon.1.name"
